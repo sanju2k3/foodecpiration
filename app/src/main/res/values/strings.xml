@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Food Expiration Dates</string>
+    <string name="app_name_short">Food Expirations</string>
+    <string name="n_days_ago">%1$d days ago</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="in_n_days">In %1$d days</string>
+    <string name="add_item">Add item</string>
+    <string name="edit_item">Edit item</string>
+    <string name="food_name">Food name</string>
+    <string name="expiration_date">Expiration date</string>
+    <string name="please_select_a_date">Please select a date</string>
+    <string name="please_enter_a_food_name">Please enter a food name</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="share">Share</string>
+    <string name="leave_a_star_on_github">Leave a star on GitHub</string>
+    <string name="write_a_review">Write a review</string>
+    <string name="source_code">Source code</string>
+    <string name="features">Features</string>
+    <string name="support_this_project">Support this project</string>
+    <string name="report_a_bug">Report a bug</string>
+    <string name="version_x">Version %1$s</string>
+    <string name="app_description">%1$s is an open source project developed by Lorenzo Vainigli and other contributors.\nThe code of this application is published under the MIT license and available on GitHub.</string>
+    <string name="about_this_app">About this app</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="back">Back</string>
+    <string name="no_items_found">No items found</string>
+    <string name="please_insert_one">Please insert one</string>
+    <string name="menu">Menu</string>
+    <string name="settings">Settings</string>
+    <string name="date_format">Date format</string>
+    <string name="choose_the_date_format">Choose the date format</string>
+    <string name="locale_formats">Locale formats</string>
+    <string name="other_formats">Other formats</string>
+    <string name="your_food_is_expiring">Your food is expiring!</string>
+
+    <string-array name="features">
+        <item>Display a list with food expiration dates in ascending time order.</item>
+        <item>Add, edit and delete items.</item>
+        <item>Notifications (available soon).</item>
+    </string-array>
+    <string-array name="example_foods">
+        <item>Eggs</item>
+        <item>Cheese</item>
+        <item>Milk</item>
+        <item>Ham</item>
+        <item>Butter</item>
+        <item>Mushrooms</item>
+        <item>Tomatoes</item>
+    </string-array>
+</resources>
